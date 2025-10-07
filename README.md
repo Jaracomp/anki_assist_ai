@@ -42,8 +42,8 @@ Generate Anki flashcards from any source language to German using AnkiConnect an
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/ai_anki_card_generator.git
-   cd ai_anki_card_generator
+   git clone https://github.com/olyaee/anki_assist_ai.git
+   cd anki_assist_ai
    ```
 
 2. **Install Poetry** (if you haven’t already):
